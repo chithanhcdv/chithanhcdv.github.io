@@ -1,0 +1,196 @@
+body{
+    background-color: whitesmoke;
+    
+}
+
+
+
+.image img{
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.header .col-md-5{
+    margin-top: 10px;
+}
+.header .logo{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.menu .dropdown{
+    margin-top: 10px;
+}
+
+.menu .navbar{
+    margin-top: 5px;
+    padding-top: 20px; 
+    height: 40px;
+}
+
+.menu .a{
+    padding-right: 10px;
+    padding-left: 10px;
+    
+    border-right: 5px solid red; 
+}
+
+.menu .btn{
+    width: 200px;
+    float: left;
+}
+
+.menu .dropdown-item{
+    border: 1px ;
+    margin-top: 2px;
+    padding: 5px;
+}
+
+
+.content .slider{
+    margin-top: 20px;
+}
+
+
+/*Phần chung header, menu, footer*/
+
+.main-1 h1{
+    color: white;
+    text-align: center;
+    
+}
+
+
+.main-1{
+    margin-top: 20px;
+    border: 20px solid pink;
+    border-radius: 20px;
+    background-color: pink;
+}
+
+.main-1 .sanpham{    
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-right: 71px;
+    margin-top: 20px ;
+    padding-left: 32px;
+}
+
+.main-1 .item{
+    width: 230px;
+}
+
+.main-1 .item{
+    margin-top: 10px;
+    
+}
+
+.main-1 button{
+    width: 220px;
+    margin-bottom: 10px;
+}
+
+.banner-1 img{
+    margin-top: 20px;
+    width:px;
+    height: 300px;
+}
+
+.sanpham h3{
+    text-align: center;
+    
+}
+
+/*PHAN MAIN 1*/
+
+
+.main-2 h1{
+    color: white;
+    text-align: center;
+    
+}
+
+
+.main-2{
+    margin-top: 20px;
+    border: 20px solid pink;
+    border-radius: 20px;
+    background-color: pink;
+}
+
+.main-2 .sanpham{    
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-right: 71px;
+    margin-top: 20px ;
+    padding-left: 32px;
+}
+
+.main-2 .item{
+    width: 230px;
+}
+
+.main-2 .item{
+    margin-top: 10px;
+    
+}
+
+.main-2 button{
+    width: 220px;   
+    margin-bottom: 10px;
+}
+
+.banner-2 img{
+    margin-top: 20px;
+    width:px;
+    height: 300px;
+}
+
+.main-3 .sanpham h3{
+    text-align: center;
+    
+}
+
+/*phan main 2*/
+
+.main-3{
+    margin-top: 20px;
+    border: 20px ;
+    border-radius: 20px;
+    
+}
+
+.main-3 h1{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main-3 .sanpham{
+    background-color: white;
+    border:0px solid white;
+    border-radius: 20px;
+  
+    margin-top: 20px ;
+    padding-left: 25px;
+    width: 103%;
+}
+
+.main-3 .item{
+    margin-top: 10px;
+}
+
+.main-3 img{
+    border-radius: 20px;
+}
+
+.main-3 button{
+    width: 190px;
+    margin-bottom: 10px;
+}
